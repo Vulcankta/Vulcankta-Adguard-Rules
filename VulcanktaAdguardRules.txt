@@ -1,5 +1,5 @@
-[V Adguard Rules]
-! Title: V Adguard Rules
+[Vulcankta Adguard Rules]
+! Title: Vulcankta Adguard Rules
 ||*ocsp.trust-provider.cn
 @@||qlogo.cn^
 ak47s.cn##div.main:first-child > div.header.w
