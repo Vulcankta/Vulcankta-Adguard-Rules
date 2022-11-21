@@ -1,2 +1,4 @@
+[V Adguard Rules]
+! Title: V Adguard Rules
 ||*ocsp.trust-provider.cn
 @@||qlogo.cn^
