@@ -5,6 +5,7 @@
 @@||qlogo.cn^
 @@||krakenfiles.com^
 @@||12306.cn^
+@@||top.baidu.com^
 @@||aimware.net^$important,document
 @@||homework.ulearning.cn^$important,document
 @@||127.0.0.1:3000^$important,document
