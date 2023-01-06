@@ -1,7 +1,7 @@
 [Vulcankta Adguard Rules]
 ! Title: Vulcankta Adguard Rules
 ||*ocsp.trust-provider.cn
-||*https://myself-bbs.com/template/yeei_dream1/style/m1/body.jpg
+||*myself-bbs.com/template/yeei_dream1/style/m1/body.jpg
 @@||qlogo.cn^
 @@||krakenfiles.com^
 @@||12306.cn^
