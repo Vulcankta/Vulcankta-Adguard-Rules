@@ -10,6 +10,7 @@
 @@||v2.get.sogou.com^
 @@||aimware.net^$important,document
 @@||homework.ulearning.cn^$important,document
+@@||www.javbus.com/forum/data/attachment/forum^$important,document
 @@||127.0.0.1:3000^$important,document
 @@||192.168.1.1^$important,document
 @@||192.168.2.1^$important,document
