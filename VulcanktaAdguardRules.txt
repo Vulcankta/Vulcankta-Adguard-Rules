@@ -10,7 +10,6 @@
 @@||v2.get.sogou.com^
 @@||aimware.net^$important,document
 @@||homework.ulearning.cn^$important,document
-@@||javbus.com/forum/data/$domain=javbus.com
 @@||127.0.0.1:3000^$important,document
 @@||192.168.1.1^$important,document
 @@||192.168.2.1^$important,document
@@ -23,5 +22,3 @@ ak47s.cn##div.box:nth-child(2) > div.search.w:first-child > div.right:nth-child(
 ak47s.cn##div.box:nth-child(2) > div.box-main:nth-child(2) > div.content.w.mt10:nth-child(2)
 ak47s.cn###jsi-flying-fish-container
 krakenfiles.com###cc_div
-javbus.com##div.bcpic2:nth-child(9)
-javbus.com##div.container-fluid:nth-child(10) > div.row > div.ad-box.all-top:first-child
