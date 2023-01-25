@@ -2,7 +2,7 @@
 ! Title: Vulcankta Adguard Rules
 ||*ocsp.trust-provider.cn
 ||myself-bbs.com/template/yeei_dream1/style/m1/body.jpg
-||www.423down.com/14742.html
+||423down.com/14742.html
 @@||qlogo.cn^
 @@||krakenfiles.com^
 @@||12306.cn^
