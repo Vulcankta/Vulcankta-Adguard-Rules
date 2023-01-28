@@ -22,6 +22,7 @@
 @@||192.168.4.1^$important,document
 @@||192.168.5.1^$important,document
 @@||43.251.17.124^$important,document
+@@||localhost^$important,document
 @@||res.nba.cn/static/scripts/lib/sensorsdata.min.js$domain=china.nba.cn,important
 ak47s.cn##div.main:first-child > div.header.w
 ak47s.cn##div.box:nth-child(2) > div.search.w:first-child > div.left:first-child
