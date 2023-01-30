@@ -31,4 +31,4 @@ ak47s.cn##div.box:nth-child(2) > div.box-main:nth-child(2) > div.content.w.mt10:
 ak47s.cn###jsi-flying-fish-container
 krakenfiles.com###cc_div
 huya.com###player-gift-wrap
-0.0.0.0 testvulcanktadnsblocked.com
+0.0.0.0 test.com
