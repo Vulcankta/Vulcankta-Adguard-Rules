@@ -10,6 +10,28 @@ ak47s.cn###jsi-flying-fish-container
 krakenfiles.com###cc_div
 huya.com###player-gift-wrap
 0.0.0.0 test.com
+@@||qlogo.cn^
+@@||krakenfiles.com^
+@@||12306.cn^
+@@||top.baidu.com^
+@@||cloud.tencent.com^
+@@||worldwide.sogou.com^
+@@||v2.get.sogou.com^
+@@||guanjia.qq.com^
+@@||wl.jd.com^
+@@||aimware.net^$important,document
+@@||homework.ulearning.cn^$important,document
+@@||minecraft.net^$important,document
+@@||quantumca.com.cn^$important,document
+@@||127.0.0.1:3000^$important,document
+@@||192.168.1.1^$important,document
+@@||192.168.2.1^$important,document
+@@||192.168.3.1^$important,document
+@@||192.168.4.1^$important,document
+@@||192.168.5.1^$important,document
+@@||43.251.17.124^$important,document
+@@||localhost^$important,document
+@@||res.nba.cn/static/scripts/lib/sensorsdata.min.js$domain=china.nba.cn,important
 38.242.234.0 passport-client.bitcomet.com
 144.91.103.39 www.xytalk.net
 144.91.103.39 www.fileshot.net
