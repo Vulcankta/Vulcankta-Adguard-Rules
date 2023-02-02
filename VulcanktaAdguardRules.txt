@@ -46,4 +46,5 @@ huya.com###player-gift-wrap
 172.67.197.95 blog.reimu.net
 2606:4700:3032::6815:54d8 blog.reimu.net
 2606:4700:3034::ac43:c55f blog.reimu.net
-
+104.21.52.248 www.javlibrary.com
+172.67.206.15 www.javlibrary.com
