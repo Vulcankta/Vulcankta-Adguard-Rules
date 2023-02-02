@@ -25,7 +25,7 @@ huya.com###player-gift-wrap
 @@||homework.ulearning.cn^$important,document
 @@||minecraft.net^$important,document
 @@||quantumca.com.cn^$important,document
-@@||127.0.0.1:3000^$important,document
+@@||127.0.0.1^$important,document
 @@||192.168.1.1^$important,document
 @@||192.168.2.1^$important,document
 @@||192.168.3.1^$important,document
