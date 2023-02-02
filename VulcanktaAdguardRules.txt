@@ -36,7 +36,4 @@ huya.com###player-gift-wrap
 @@||res.nba.cn/static/scripts/lib/sensorsdata.min.js$domain=china.nba.cn,important
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 test.com
-38.242.234.0 passport-client.bitcomet.com
-144.91.103.39 www.xytalk.net
-144.91.103.39 www.fileshot.net
-144.91.103.39 image.fileshot.net
+172.67.195.92 javdb.com
