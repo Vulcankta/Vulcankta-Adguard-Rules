@@ -42,3 +42,8 @@ huya.com###player-gift-wrap
 2606:4700:20::ac43:502c javbus.com
 104.25.112.111 www.javbus.com
 2606:4700:20::ac43:502c www.javbus.com
+104.21.84.216 blog.reimu.net
+172.67.197.95 blog.reimu.net
+2606:4700:3032::6815:54d8 blog.reimu.net
+2606:4700:3034::ac43:c55f blog.reimu.net
+
