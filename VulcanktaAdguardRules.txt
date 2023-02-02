@@ -38,3 +38,5 @@ huya.com###player-gift-wrap
 0.0.0.0 test.com
 172.67.195.92 javdb.com
 2606:4700:3032::6815:31e6 javdb.com
+104.25.112.111 javbus.com
+2606:4700:20::ac43:502c javbus.com
