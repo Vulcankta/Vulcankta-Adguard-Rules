@@ -87,3 +87,7 @@ huya.com###player-gift-wrap
 2606:4700:3034::ac43:c55f blog.reimu.net
 104.21.52.248 www.javlibrary.com
 172.67.206.15 www.javlibrary.com
+104.21.8.46 jable.tv
+172.67.156.214 jable.tv
+2606:4700:3031::ac43:9cd6 jable.tv
+2606:4700:3033::6815:82e jable.tv
