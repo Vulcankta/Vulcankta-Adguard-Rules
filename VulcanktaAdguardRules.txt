@@ -75,19 +75,4 @@ huya.com###player-gift-wrap
 13.107.238.40                 vscode.dev
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 test.com
-172.67.195.92 javdb.com
-104.21.49.230 javdb.com
-2606:4700:3032::6815:31e6 javdb.com
-2606:4700:3030::ac43:c35c javdb.com
-104.19.129.100 theporndude.com
-104.19.128.100 theporndude.com
-104.21.84.216 blog.reimu.net
-172.67.197.95 blog.reimu.net
-2606:4700:3032::6815:54d8 blog.reimu.net
-2606:4700:3034::ac43:c55f blog.reimu.net
-104.21.52.248 www.javlibrary.com
-172.67.206.15 www.javlibrary.com
-104.21.8.46 jable.tv
-172.67.156.214 jable.tv
-2606:4700:3031::ac43:9cd6 jable.tv
-2606:4700:3033::6815:82e jable.tv
+
