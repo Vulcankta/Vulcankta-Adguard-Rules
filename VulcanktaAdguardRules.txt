@@ -3,6 +3,7 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ||*ocsp.trust-provider.cn
 ||myself-bbs.com/template/yeei_dream1/style/m1/body.jpg
+||www.baidu.com/s$important
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ak47s.cn##div.main:first-child > div.header.w
 ak47s.cn##div.box:nth-child(2) > div.search.w:first-child > div.left:first-child
@@ -34,6 +35,5 @@ huya.com###player-gift-wrap
 @@||43.251.17.124^$important,document
 @@||localhost^$important,document
 @@||res.nba.cn/static/scripts/lib/sensorsdata.min.js$domain=china.nba.cn,important
-@@||www.baidu.com/s$important
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 test.com
