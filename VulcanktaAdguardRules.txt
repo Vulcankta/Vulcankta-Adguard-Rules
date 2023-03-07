@@ -36,5 +36,6 @@ huya.com###player-gift-wrap
 @@||res.nba.cn/static/scripts/lib/sensorsdata.min.js$domain=china.nba.cn,important
 @@||www.baidu.com/s?$important,document
 @@||ip.affiliate.dmm.com^
+@@||chat.openai.com^
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 test.com
