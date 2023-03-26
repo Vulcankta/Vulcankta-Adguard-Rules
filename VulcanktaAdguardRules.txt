@@ -11,6 +11,7 @@ ak47s.cn##div.box:nth-child(2) > div.box-main:nth-child(2) > div.content.w.mt10:
 ak47s.cn###jsi-flying-fish-container
 krakenfiles.com###cc_div
 huya.com###player-gift-wrap
+live.bilibili.com###gift-control-vm
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 @@||qlogo.cn^
 @@||krakenfiles.com^
