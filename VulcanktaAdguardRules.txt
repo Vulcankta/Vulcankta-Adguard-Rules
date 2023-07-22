@@ -38,5 +38,6 @@ huya.com###player-gift-wrap
 @@||ip.affiliate.dmm.com^
 @@||chat.openai.com^
 @@||steamdb.info^
+@@||item.taobao.com^
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 test.com
