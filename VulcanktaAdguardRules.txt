@@ -39,6 +39,6 @@ huya.com###player-gift-wrap
 @@||chat.openai.com^
 @@||steamdb.info^
 @@||item.taobao.com^
-@@||xslist.org^
+@@||cloudflare.com^
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 test.com
