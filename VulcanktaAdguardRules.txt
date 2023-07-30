@@ -40,5 +40,6 @@ huya.com###player-gift-wrap
 @@||steamdb.info^
 @@||item.taobao.com^
 @@||cloudflare.com^
+@@||18comic.vip^
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 test.com
