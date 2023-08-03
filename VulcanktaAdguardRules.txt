@@ -41,5 +41,6 @@ huya.com###player-gift-wrap
 @@||item.taobao.com^
 @@||cloudflare.com^
 @@||18comic.vip^
+@@||lensdump.com^
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 test.com
