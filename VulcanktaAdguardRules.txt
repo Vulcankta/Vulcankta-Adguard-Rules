@@ -43,5 +43,6 @@ huya.com###player-gift-wrap
 @@||18comic.vip^
 @@||lensdump.com^
 @@||pastebin.com^
+@@||www.spigotmc.org^
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 test.com
