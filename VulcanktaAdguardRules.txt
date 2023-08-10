@@ -96,5 +96,9 @@ huya.com###player-gift-wrap
 ||ood.opsource.net 
 ||crl.verisign.net
 ||prod.adobegenuine.com
+||miav-cse.avlyun.com
+||a0.app.xiaomi.com
+||miui-fxcse.avlyun.com
+||api.installer.xiaomi.com
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 test.com
