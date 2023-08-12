@@ -1,17 +1,6 @@
 [Vulcankta Adguard Rules]
 ! Title: Vulcankta Adguard Rules
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-||*ocsp.trust-provider.cn
-||myself-bbs.com/template/yeei_dream1/style/m1/body.jpg
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-ak47s.cn##div.main:first-child > div.header.w
-ak47s.cn##div.box:nth-child(2) > div.search.w:first-child > div.left:first-child
-ak47s.cn##div.box:nth-child(2) > div.search.w:first-child > div.right:nth-child(2)
-ak47s.cn##div.box:nth-child(2) > div.box-main:nth-child(2) > div.content.w.mt10:nth-child(2)
-ak47s.cn###jsi-flying-fish-container
-krakenfiles.com###cc_div
-huya.com###player-gift-wrap
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 @@||qlogo.cn^
 @@||krakenfiles.com^
 @@||12306.cn^
@@ -44,6 +33,17 @@ huya.com###player-gift-wrap
 @@||lensdump.com^
 @@||pastebin.com^
 @@||www.spigotmc.org^
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ak47s.cn##div.main:first-child > div.header.w
+ak47s.cn##div.box:nth-child(2) > div.search.w:first-child > div.left:first-child
+ak47s.cn##div.box:nth-child(2) > div.search.w:first-child > div.right:nth-child(2)
+ak47s.cn##div.box:nth-child(2) > div.box-main:nth-child(2) > div.content.w.mt10:nth-child(2)
+ak47s.cn###jsi-flying-fish-container
+krakenfiles.com###cc_div
+huya.com###player-gift-wrap
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+||*ocsp.trust-provider.cn
+||myself-bbs.com/template/yeei_dream1/style/m1/body.jpg
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ||*activate.adobe.com
 ||*activate-sea.adobe.com
