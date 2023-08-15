@@ -98,12 +98,14 @@ huya.com###player-gift-wrap
 ||*ood.opsource.net 
 ||*crl.verisign.net
 ||*prod.adobegenuine.com
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ||*miav-cse.avlyun.com
 ||*a0.app.xiaomi.com
 ||*miui-fxcse.avlyun.com
 ||*api.installer.xiaomi.com
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 test.com
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 activate.adobe.com
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sjc0.adobe.com
@@ -155,6 +157,7 @@ huya.com###player-gift-wrap
 0.0.0.0 ood.opsource.net 
 0.0.0.0 crl.verisign.net
 0.0.0.0 prod.adobegenuine.com
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 0.0.0.0 miav-cse.avlyun.com
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 miui-fxcse.avlyun.com
