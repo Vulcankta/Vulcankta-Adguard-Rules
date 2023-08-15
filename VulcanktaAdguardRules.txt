@@ -33,6 +33,8 @@
 @@||lensdump.com^
 @@||pastebin.com^
 @@||www.spigotmc.org^
+@@||tplogin.cn^
+@@||192.168.10.1^$important,document
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ak47s.cn##div.main:first-child > div.header.w
 ak47s.cn##div.box:nth-child(2) > div.search.w:first-child > div.left:first-child
