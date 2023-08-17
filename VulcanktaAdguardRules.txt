@@ -26,7 +26,6 @@
 @@||chat.openai.com^$important,document
 @@||steamdb.info^$important,document
 @@||item.taobao.com^$important,document
-@@||cloudflare.com^$important,document
 @@||18comic.vip^$important,document
 @@||lensdump.com^$important,document
 @@||pastebin.com^$important,document
