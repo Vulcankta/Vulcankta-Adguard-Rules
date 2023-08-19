@@ -37,7 +37,7 @@
 @@||postimages.org^$important
 @@||www.bilibili.com^$important,document
 @@||119.29.29.29^$important
-@@||wgo.mmstat.com^$important
+@@||mmstat.com^$important
 @@||ele.me^$important
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ak47s.cn##div.main:first-child > div.header.w
