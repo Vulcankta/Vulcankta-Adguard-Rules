@@ -35,10 +35,11 @@
 @@||pastebin.com^$important
 @@||multiup.org^$important
 @@||postimages.org^$important
-@@||www.bilibili.com^$important,document
 @@||119.29.29.29^$important
 @@||mmstat.com^$important
 @@||ele.me^$important
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+www.bilibili.com$@$div[class="-ad-"]
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ak47s.cn##div.main:first-child > div.header.w
 ak47s.cn##div.box:nth-child(2) > div.search.w:first-child > div.left:first-child
