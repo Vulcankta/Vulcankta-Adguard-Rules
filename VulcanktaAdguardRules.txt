@@ -35,7 +35,7 @@
 @@||pastebin.com^$important
 @@||multiup.org^$important
 @@||postimages.org^$important
-@@||www.bilibili.com^$important
+@@||www.bilibili.com^$important,document
 @@||app-monitor.ele.me^$important
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ak47s.cn##div.main:first-child > div.header.w
