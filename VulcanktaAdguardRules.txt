@@ -10,7 +10,7 @@
 @@||v2.get.sogou.com^$important
 @@||guanjia.qq.com^$important
 @@||wl.jd.com^$important
-@@||aimware.net^$important
+@@||aimware.net^$important,document
 @@||homework.ulearning.cn^$important
 @@||minecraft.net^$important
 @@||quantumca.com.cn^$important
@@ -38,6 +38,7 @@
 @@||119.29.29.29^$important
 @@||mmstat.com^$important
 @@||ele.me^$important
+@@||h-adashx.ut.taobao.com^$important
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 www.bilibili.com$@$div[class="-ad-"]
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
