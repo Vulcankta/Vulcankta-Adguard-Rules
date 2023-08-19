@@ -39,6 +39,9 @@
 @@||mmstat.com^$important
 @@||ele.me^$important
 @@||h-adashx.ut.taobao.com^$important
+@@||qzonestyle.gtimg.cn/qzone/qzact/common/share/share.js$important
+@@||wiki.gg^$important
+@@||wikipedia.org^$important
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 www.bilibili.com$@$div[class="-ad-"]
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
