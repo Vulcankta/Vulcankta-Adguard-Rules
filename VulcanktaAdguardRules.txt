@@ -35,6 +35,7 @@
 @@||pastebin.com^$important
 @@||multiup.org^$important
 @@||postimages.org^$important
+@@||idope.se^$important
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ak47s.cn##div.main:first-child > div.header.w
 ak47s.cn##div.box:nth-child(2) > div.search.w:first-child > div.left:first-child
