@@ -1,6 +1,5 @@
-[Vulcankta Adguard Rules]
 ! Title: Vulcankta Adguard Rules
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Description: Vulcankta自用adguard規則
 @@||qlogo.cn^$important
 @@||krakenfiles.com^$important
 @@||12306.cn^$important
