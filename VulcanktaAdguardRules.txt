@@ -10,7 +10,7 @@
 @@||guanjia.qq.com^$important
 @@||wl.jd.com^$important
 @@||aimware.net^$important,document
-@@||ulearning.cn^$important
+@@||ulearning.cn^$important,document
 @@||minecraft.net^$important
 @@||quantumca.com.cn^$important
 @@||127.0.0.1^$important
