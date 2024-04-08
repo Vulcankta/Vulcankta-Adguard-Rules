@@ -42,7 +42,6 @@
 @@||xslist.org^$important
 @@||xn--mes58x2tdf63d.com^$important
 @@||dash.xns.one^$important
-@@||blog.csdn.net^$important,document
 @@||leetcode.cn^$important,document
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ak47s.cn##div.main:first-child > div.header.w
