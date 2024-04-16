@@ -51,6 +51,7 @@ ak47s.cn##div.box:nth-child(2) > div.box-main:nth-child(2) > div.content.w.mt10:
 ak47s.cn###jsi-flying-fish-container
 krakenfiles.com###cc_div
 huya.com###player-gift-wrap
+18comic.vip###wrapper > div.hidden-lg:nth-child(54)
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ||*ocsp.trust-provider.cn$important
 ||myself-bbs.com/template/yeei_dream1/style/m1/body.jpg$important
